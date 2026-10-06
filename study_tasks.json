@@ -1,0 +1,26 @@
+[
+    {
+        "subject": "DAA",
+        "time": "8:00",
+        "duration": "1 h",
+        "status": "Pending"
+    },
+    {
+        "subject": "Python",
+        "time": "9:00",
+        "duration": "1h",
+        "status": "Completed"
+    },
+    {
+        "subject": "WT",
+        "time": "10:00",
+        "duration": "2 h",
+        "status": "Completed"
+    },
+    {
+        "subject": "AMP",
+        "time": "12: 00",
+        "duration": "2 h",
+        "status": "Completed"
+    }
+]
